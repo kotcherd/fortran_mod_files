@@ -1,5 +1,5 @@
 # fortran_mod_files
 
-Go to branch ThisWorks
+Go to branch "ThisWorks"
 
-Use a function to automatically make mod files available when making a library
+Use the add_fortran_library function to make mod files available after making a library
